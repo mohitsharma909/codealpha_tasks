@@ -1,2 +1,2 @@
 # codealpha_tasks
-this is the task #1 for web development internship of the code alpha
+this is the repo for tasks of the  web development internship for the code alpha
